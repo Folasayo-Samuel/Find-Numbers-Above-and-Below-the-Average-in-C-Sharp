@@ -1,0 +1,15 @@
+/home/saint/Desktop/NumbersAboveBelowAverage/bin/Debug/net6.0/NumbersAboveBelowAverage
+/home/saint/Desktop/NumbersAboveBelowAverage/bin/Debug/net6.0/NumbersAboveBelowAverage.deps.json
+/home/saint/Desktop/NumbersAboveBelowAverage/bin/Debug/net6.0/NumbersAboveBelowAverage.runtimeconfig.json
+/home/saint/Desktop/NumbersAboveBelowAverage/bin/Debug/net6.0/NumbersAboveBelowAverage.dll
+/home/saint/Desktop/NumbersAboveBelowAverage/bin/Debug/net6.0/NumbersAboveBelowAverage.pdb
+/home/saint/Desktop/NumbersAboveBelowAverage/obj/Debug/net6.0/NumbersAboveBelowAverage.csproj.AssemblyReference.cache
+/home/saint/Desktop/NumbersAboveBelowAverage/obj/Debug/net6.0/NumbersAboveBelowAverage.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/NumbersAboveBelowAverage/obj/Debug/net6.0/NumbersAboveBelowAverage.AssemblyInfoInputs.cache
+/home/saint/Desktop/NumbersAboveBelowAverage/obj/Debug/net6.0/NumbersAboveBelowAverage.AssemblyInfo.cs
+/home/saint/Desktop/NumbersAboveBelowAverage/obj/Debug/net6.0/NumbersAboveBelowAverage.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/NumbersAboveBelowAverage/obj/Debug/net6.0/NumbersAboveBelowAverage.dll
+/home/saint/Desktop/NumbersAboveBelowAverage/obj/Debug/net6.0/refint/NumbersAboveBelowAverage.dll
+/home/saint/Desktop/NumbersAboveBelowAverage/obj/Debug/net6.0/NumbersAboveBelowAverage.pdb
+/home/saint/Desktop/NumbersAboveBelowAverage/obj/Debug/net6.0/NumbersAboveBelowAverage.genruntimeconfig.cache
+/home/saint/Desktop/NumbersAboveBelowAverage/obj/Debug/net6.0/ref/NumbersAboveBelowAverage.dll
